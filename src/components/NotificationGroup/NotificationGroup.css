@@ -1,0 +1,6 @@
+.group-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  padding: 10px 22px;
+}
